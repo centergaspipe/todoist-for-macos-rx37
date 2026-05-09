@@ -1,4 +1,4 @@
-
+Enhance Todoist for macOS with Todoist for macOS smart Automation: OCR scanning & auto-sync, the #1 automation. Includes OCR scanning and auto-sync for a smoother experience.
 
 
 
